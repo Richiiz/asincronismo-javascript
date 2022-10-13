@@ -1,0 +1,22 @@
+{
+  "name": "asincronismo-en-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Richiiz/asincronismo-javascript.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Luis Ricardo ricardo.rodriguez@librerialeo.com.mx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Richiiz/asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/Richiiz/asincronismo-javascript#readme"
+}
